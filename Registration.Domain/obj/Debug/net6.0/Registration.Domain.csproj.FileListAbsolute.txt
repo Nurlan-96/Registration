@@ -1,0 +1,11 @@
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\bin\Debug\net6.0\Registration.Domain.deps.json
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\bin\Debug\net6.0\Registration.Domain.dll
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\bin\Debug\net6.0\Registration.Domain.pdb
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\obj\Debug\net6.0\Registration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\obj\Debug\net6.0\Registration.Domain.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\obj\Debug\net6.0\Registration.Domain.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\obj\Debug\net6.0\Registration.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\obj\Debug\net6.0\Registration.Domain.dll
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\obj\Debug\net6.0\refint\Registration.Domain.dll
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\obj\Debug\net6.0\Registration.Domain.pdb
+C:\Users\Uncle Nurlan\Desktop\Registration\Registration.Domain\obj\Debug\net6.0\ref\Registration.Domain.dll
